@@ -1,0 +1,14 @@
+name: demo-environment
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - xarray
+  - s3fs
+  - cmcrameri
+  - cartopy
+  - matplotlib
+  - python-openstackclient
+  - pandas
+  - pip
