@@ -1,0 +1,8 @@
+cmcrameri
+s3fs
+python-openstackclient
+numpy
+xarray
+cartopy
+matplotlib
+pandas
