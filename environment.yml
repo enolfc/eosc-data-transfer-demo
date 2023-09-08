@@ -10,5 +10,6 @@ dependencies:
   - cartopy
   - matplotlib
   - python-openstackclient
+  - scipy
   - pandas
   - pip
